@@ -2,7 +2,7 @@
 layout: about
 title: Ethan Brewer
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://drive.google.com/file/d/1_ca6HT2iuR2Tg_-4xOKzQsNAj5jAClDF/view?usp=sharing'>CV</a>.
 
 profile:
   align: right
