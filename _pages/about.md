@@ -6,7 +6,7 @@ subtitle: <a href='https://drive.google.com/file/d/1_ca6HT2iuR2Tg_-4xOKzQsNAj5jA
 
 profile:
   align: right
-  image: me.jpg
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Research Assistant Professor</p>
