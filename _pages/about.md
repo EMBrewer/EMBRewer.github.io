@@ -1,7 +1,8 @@
 ---
 layout: about
 title: Ethan Brewer
-permalink: Research Assistant Professor, New York University
+permalink: \
+Research Assistant Professor, New York University
 subtitle: <a href='https://drive.google.com/file/d/1_ca6HT2iuR2Tg_-4xOKzQsNAj5jAClDF/view?usp=sharing'>CV</a>  |  <a href='https://scholar.google.com/citations?user=aVcOpMwAAAAJ&hl=en'>Google Scholar</a>  |  <a href='https://www.linkedin.com/in/ethanbrewer/'>LinkedIn</a>
 
 profile:
@@ -14,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 ## Bio
-Hello, I am Research Assistant Professor within the Department of Computer Science and Engineering at NYU. Concomitantly, I am a researcher at the Visualization and Data Analytics Research Center at NYU's Tandon School of Engineering. My research interests are broadly centered around utilizing geospatial data and computer vision to inform policy and decision making in the contexts of international development and urban design. I hold a Ph.D. in geospatial data science from William & Mary. I also hold an M.S. in applied physics from William & Mary and a B.S. in physics from UMBC.
+Hello, I am Research Assistant Professor within the Department of Computer Science and Engineering at NYU and a member of the Visualization and Data Analytics Research Center at NYU's Tandon School of Engineering under <a href='https://engineering.nyu.edu/faculty/claudio-silva'>Claudio Silva</a>. My research interests are centered around utilizing geospatial data and computer vision to inform policy and decision making in the contexts of international development and urban design. I hold a Ph.D. in geospatial data science from William & Mary. I also hold an M.S. in applied physics from William & Mary and a B.S. in physics from UMBC.
 
 ## Research Goals  
 (1) reveal patterns in development, population, and the environment in data-sparse and data-adverse conditions,
