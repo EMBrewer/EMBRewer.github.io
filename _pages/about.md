@@ -13,9 +13,9 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-ethan.brewer@nyu.edu  |  
-[CV](https://drive.google.com/file/d/1_ca6HT2iuR2Tg_-4xOKzQsNAj5jAClDF/view?usp=sharing)  |  
-[Google Scholar](https://scholar.google.com/citations?user=aVcOpMwAAAAJ&hl=en)  |  
+ethan.brewer@nyu.edu&nbsp;|&nbsp;
+[CV](https://drive.google.com/file/d/1_ca6HT2iuR2Tg_-4xOKzQsNAj5jAClDF/view?usp=sharing)&nbsp;&nbsp;|&nbsp;
+[Google Scholar](https://scholar.google.com/citations?user=aVcOpMwAAAAJ&hl=en)&nbsp;&nbsp;|&nbsp;
 [LinkedIn](https://www.linkedin.com/in/ethanbrewer/)
 
 &nbsp;
