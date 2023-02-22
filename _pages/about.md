@@ -7,7 +7,7 @@ subtitle: <a href='https://drive.google.com/file/d/1_ca6HT2iuR2Tg_-4xOKzQsNAj5jA
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   address: Research Assistant Professor, New York University
 
 news: false  # includes a list of news items
