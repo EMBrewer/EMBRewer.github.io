@@ -18,7 +18,7 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hello, I'm Ethan Brewer. I'm a Research Assistant Professor at NYU. My research interests are prodly centered around harnessing geographic and geospatial data and computer vision to inform policy and decision making in the context of international development and urban design.
+Hello, I'm Ethan Brewer. I'm a Research Assistant Professor within the Department of Computer Science and Engineering at NYU. Concomitantly, I am a researcher at the Visualization and Data Analytics Research Center at NYU's Tandon School of Engineering. My research interests are broadly centered around utilizing geospatial data and computer vision to inform policy and decision making in the contexts of international development and urban design.
 
 My core goals are to (1) reveal patterns in development, population, and the environment in data-sparse and data-adverse conditions, (2) fill in critical information gaps to better understand social and economic outcomes and events in these areas, (3) develop interdisciplinary collaborations and computational and empirical methods to achieve these aims, and (4) impart this knowledge to the next generation of leaders.
 
