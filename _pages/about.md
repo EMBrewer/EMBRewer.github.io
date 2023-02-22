@@ -22,7 +22,7 @@ ethan.brewer@nyu.edu&nbsp;|&nbsp;
 I am a Research Assistant Professor within the Department of Computer Science and Engineering at NYU and a member of the Visualization and Data Analytics (VIDA) Research Center under <a href='https://engineering.nyu.edu/faculty/claudio-silva'>Claudio Silva</a>. My research interests are primarliy centered around the utilization of geospatial data and computer vision to inform policy and decision making in the contexts of international development and urban design. I hold a Ph.D. in geospatial data science from William & Mary (under <a href='https://www.wm.edu/as/appliedscience/people/runfola_d.php'>Dan Runfola</a>). I also hold an M.S. in applied physics from William & Mary and a B.S. in physics from UMBC.
 
 ## Research Goals  
-(1) Reveal patterns in development, population, and the environment in data-sparse and data-adverse conditions;
+(1) Understand patterns in development, population, and the environment in data-sparse and data-adverse conditions;
 
 (2) Fill in critical information gaps to better understand social and economic outcomes and events in these areas;
 
