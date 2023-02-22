@@ -1,6 +1,6 @@
 ---
-layout: #about
-title: #about
+layout: about
+title: Ethan Brewer
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
