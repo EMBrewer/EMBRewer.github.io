@@ -2,7 +2,9 @@
 layout: about
 title: Ethan Brewer
 permalink: /
-subtitle: <a href='https://drive.google.com/file/d/1_ca6HT2iuR2Tg_-4xOKzQsNAj5jAClDF/view?usp=sharing'>CV</a>.
+subtitle: <a href='https://drive.google.com/file/d/1_ca6HT2iuR2Tg_-4xOKzQsNAj5jAClDF/view?usp=sharing'>CV</a> | 
+<a href='https://scholar.google.com/citations?user=aVcOpMwAAAAJ&hl=en'>Google Scholar</a> |
+<a href='https://www.linkedin.com/in/ethanbrewer/'>LinkedIn</a>
 
 profile:
   align: right
@@ -14,9 +16,9 @@ profile:
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
-Hello, I'm Ethan Brewer. I'm a Research Assistant Professor within the Department of Computer Science and Engineering at NYU. Concomitantly, I am a researcher at the Visualization and Data Analytics Research Center at NYU's Tandon School of Engineering. My research interests are broadly centered around utilizing geospatial data and computer vision to inform policy and decision making in the contexts of international development and urban design.
+Hello, I am Research Assistant Professor within the Department of Computer Science and Engineering at NYU. Concomitantly, I am a researcher at the Visualization and Data Analytics Research Center at NYU's Tandon School of Engineering. My research interests are broadly centered around utilizing geospatial data and computer vision to inform policy and decision making in the contexts of international development and urban design.
 
 My core goals are to 
 (1) reveal patterns in development, population, and the environment in data-sparse and data-adverse conditions, 
