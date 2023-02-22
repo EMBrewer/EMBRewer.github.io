@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 ## Bio
-Hello, I am Research Assistant Professor within the Department of Computer Science and Engineering at NYU and a member of the Visualization and Data Analytics Research Center at NYU's Tandon School of Engineering under <a href='https://engineering.nyu.edu/faculty/claudio-silva'>Claudio Silva</a>. My research interests are centered around utilizing geospatial data and computer vision to inform policy and decision making in the contexts of international development and urban design. I hold a Ph.D. in geospatial data science from William & Mary. I also hold an M.S. in applied physics from William & Mary and a B.S. in physics from UMBC.
+Hello, I am Research Assistant Professor within the Department of Computer Science and Engineering at NYU and a member of the Visualization and Data Analytics Research Center at NYU's Tandon School of Engineering under <a href='https://engineering.nyu.edu/faculty/claudio-silva'>Claudio Silva</a>. My research interests are centered around utilizing geospatial data and computer vision to inform policy and decision making in the contexts of international development and urban design. I hold a Ph.D. in geospatial data science from William & Mary (under <a href='https://www.wm.edu/as/appliedscience/people/runfola_d.php'>Dan Runfola</a>). I also hold an M.S. in applied physics from William & Mary and a B.S. in physics from UMBC.
 
 ## Research Goals  
 (1) reveal patterns in development, population, and the environment in data-sparse and data-adverse conditions,
