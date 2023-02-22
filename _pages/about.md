@@ -16,7 +16,7 @@ social: false  # includes social icons at the bottom of the page
 ethan.brewer@nyu.edu |
 [CV](https://drive.google.com/file/d/1_ca6HT2iuR2Tg_-4xOKzQsNAj5jAClDF/view?usp=sharing) |
 [Google Scholar](https://scholar.google.com/citations?user=aVcOpMwAAAAJ&hl=en) |
-[LinkedIn](https://www.linkedin.com/in/ethanbrewer/) |
+[LinkedIn](https://www.linkedin.com/in/ethanbrewer/)
 
 &nbsp;
 
