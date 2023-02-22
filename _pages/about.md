@@ -31,4 +31,4 @@ I am a Research Assistant Professor within the Department of Computer Science an
 (4) Impart this knowledge to the next generation of leaders.
 
 ## Current Research
-Please see my Google Scholar or CV for an up-to-date list of publications.
+Please see my CV or Google Scholar for an up-to-date list of publications.
