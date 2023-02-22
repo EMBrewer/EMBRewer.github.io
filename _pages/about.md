@@ -6,20 +6,22 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: me.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Research Assistant Professor</p>
+    <p>New York University</p>
+    <p>Department of Computer Science and Engineering</p>
+    <p>Visualization and Data Anlytics (VIDA) Research Center</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+Hello, I'm Ethan Brewer. I'm a Research Assistant Professor at NYU. My research interests are prodly centered around harnessing geographic and geospatial data and computer vision to inform policy and decision making in the context of international development and urban design.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My core goals are to (1) reveal patterns in development, population, and the environment in data-sparse and data-adverse conditions, (2) fill in critical information gaps to better understand social and economic outcomes and events in these areas, (3) develop interdisciplinary collaborations and computational and empirical methods to achieve these aims, and (4) impart this knowledge to the next generation of leaders.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Please see my Google Scholar or CV for a full list of publications.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I hold a Ph.D. in geospatial data science from William & Mary. I also hold an M.S. in applied physics from William & Mary and a B.S. in physics from UMBC.
