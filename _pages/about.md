@@ -11,8 +11,6 @@ profile:
   address: >
     <p>Research Assistant Professor</p>
     <p>New York University</p>
-    <p>Department of Computer Science and Engineering</p>
-    <p>Visualization and Data Anlytics (VIDA) Research Center</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
