@@ -1,8 +1,7 @@
 ---
 layout: about
 title: Ethan Brewer
-permalink: /
-subtitle: Research Assistant Professor
+permalink: Research Assistant Professor, New York University
 subtitle: <a href='https://drive.google.com/file/d/1_ca6HT2iuR2Tg_-4xOKzQsNAj5jAClDF/view?usp=sharing'>CV</a>  |  <a href='https://scholar.google.com/citations?user=aVcOpMwAAAAJ&hl=en'>Google Scholar</a>  |  <a href='https://www.linkedin.com/in/ethanbrewer/'>LinkedIn</a>
 
 profile:
