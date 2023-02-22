@@ -24,7 +24,7 @@ I am a Research Assistant Professor within the Department of Computer Science an
 ## Research Goals  
 (1) Understand patterns in development, population, and the environment in data-sparse conditions;
 
-(2) Fill in critical information gaps to better understand social and economic outcomes and events in these areas;
+(2) Fill in critical information gaps to better understand social and economic outcomes in these areas;
 
 (3) Develop interdisciplinary collaborations and computational and empirical methods to achieve these aims;
 
