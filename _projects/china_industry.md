@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Tracking the industrial growth of modern China with high-resolution panchromatic imagery: A sequential convolutional approach
+description:
+img: assets/img/mrcnn_performance.png
+redirect: https://doi.org/10.48550/arXiv.2301.09620 
 importance: 3
 category: work
 ---
