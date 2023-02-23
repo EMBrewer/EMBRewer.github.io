@@ -4,7 +4,7 @@ title: project 3
 description: Predicting road quality using high resolution satellite imagery: A transfer learning approach
 img: assets/img/virginia_shap.jpg
 redirect: https://unsplash.com
-importance: 2
+importance: 4
 ---
 
 Every project has a beautiful feature showcase page.
