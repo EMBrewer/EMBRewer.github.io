@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 3
-description: Predicting road quality using high resolution satellite imagery: A transfer learning approach
+title: Predicting road quality using high resolution satellite imagery: A transfer learning approach
+description:
 img: assets/img/virginia_shap.png
 redirect: https://doi.org/10.1371/journal.pone.0253370
 importance: 1
