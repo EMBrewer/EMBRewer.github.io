@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tracking the industrial growth of modern China with high-resolution panchromatic imagery: A sequential convolutional approach
+title: 'Tracking the industrial growth of modern China with high-resolution panchromatic imagery: A sequential convolutional approach'
 description:
 img: assets/img/mrcnn_performance.png
 redirect: https://doi.org/10.48550/arXiv.2301.09620 
