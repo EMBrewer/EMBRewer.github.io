@@ -420,7 +420,7 @@ footer.sticky-bottom {
 
 .projects {
   a {
-    text-decoration: strong;
+    text-decoration: none;
 
     &:hover {
       .card-title {
@@ -457,6 +457,7 @@ footer.sticky-bottom {
     margin-top: 2rem;
     margin-bottom: 1rem;
     text-align: right;
+    text-decoration: strong;
   }
 }
 
