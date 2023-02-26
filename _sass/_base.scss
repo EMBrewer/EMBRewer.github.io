@@ -128,7 +128,7 @@ blockquote {
     color: inherit;
     &:hover {
       color: var(--global-theme-color);
-      text-decoration: strong;
+      text-decoration: none;
     }
   }
 }
@@ -420,7 +420,7 @@ footer.sticky-bottom {
 
 .projects {
   a {
-    text-decoration: none;
+    text-decoration: strong;
 
     &:hover {
       .card-title {
