@@ -128,7 +128,7 @@ blockquote {
     color: inherit;
     &:hover {
       color: var(--global-theme-color);
-      text-decoration: none;
+      text-decoration: strong;
     }
   }
 }
