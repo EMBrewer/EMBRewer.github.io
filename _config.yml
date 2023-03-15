@@ -113,14 +113,14 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 blog_name: # blog_name will be displayed in your blog page
 blog_nav_title: # your blog must have a title for it to be displayed in the nav bar
 blog_description: a simple whitespace theme for academics
-permalink: #/blog/:year/:title/
+permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
   enabled: true
 
 related_blog_posts:
-  enabled: false
+  enabled: true
   max_related: 5
 
 # Giscus comments (RECOMMENDED)
@@ -158,7 +158,7 @@ collections:
   news:
     defaults:
       layout: post
-    output: false
+    output: true
     permalink: #/news/:path/
   projects:
     output: true
