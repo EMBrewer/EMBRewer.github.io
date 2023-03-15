@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Ethan Brewer # the website title (if blank, full name will be used instead)
+title: Ethan Brewer # the website title (if blank, full namle will be used instead)
 first_name: Ethan 
 middle_name: #
 last_name: Brewer
@@ -159,7 +159,7 @@ collections:
     defaults:
       layout: post
     output: true
-    permalink: #/news/:path/
+    permalink: /news/:path/
   projects:
     output: true
     permalink: /projects/:path/
