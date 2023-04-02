@@ -29,7 +29,7 @@ I am a Research Assistant Professor in the Department of Computer Science and En
 (4) Impart this knowledge to the next generation of leaders.
 
 &nbsp;
-## Research Papers
+## Research Work
 
 <!-- pages/projects.md -->
 <div class="projects">
