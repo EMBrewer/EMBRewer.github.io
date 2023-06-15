@@ -19,14 +19,7 @@ ethan.brewer@nyu.edu&nbsp;|&nbsp;
 [LinkedIn](https://www.linkedin.com/in/ethanbrewer/)
 &nbsp;
 ## Bio
-I am a Research Assistant Professor in the Department of Computer Science and Engineering at NYU and a member of the Visualization and Data Analytics (VIDA) Research Center under <a href='https://engineering.nyu.edu/faculty/claudio-silva'>Claudio Silva</a>. My research interests are primarliy centered around the utilization of geospatial data, computer vision, and machine learning (geoAI) to inform policy and decision making in the contexts of international development and urban science. I hold a Ph.D. in computational geography from William & Mary (under <a href='https://www.wm.edu/as/appliedscience/people/runfola_d.php'>Dan Runfola</a>), an M.S. in applied physics from William & Mary, and a B.S. in physics from UMBC.
-
-&nbsp;
-## Research Goals  
-1) Understand patterns in development, population, and the environment in data-sparse conditions;  
-2) Fill in critical information gaps to better understand social and economic outcomes in these areas;  
-3) Develop interdisciplinary collaborations and computational and empirical methods to achieve these aims;  
-4) Impart this knowledge to the next generation of leaders.
+I am a Research Assistant Professor in the Department of Computer Science and Engineering at NYU and a member of the Visualization and Data Analytics (VIDA) Research Center under <a href='https://engineering.nyu.edu/faculty/claudio-silva'>Claudio Silva</a>. My research is primarliy centered around the interection of geospatial data, computer vision, and machine learning (geoAI). I am interested in helping us better understand patterns in development, population, and the environment in data-sparse conditions to fill in critical information gaps regarding social and economic outcomes in these areas. Moreover, my work utilizes remote sensing technologies and the latest computational techniques to expedite and scale analysis. I hold a Ph.D. in computational geography from William & Mary (under <a href='https://www.wm.edu/as/appliedscience/people/runfola_d.php'>Dan Runfola</a>), an M.S. in applied physics from William & Mary, and a B.S. in physics from UMBC.
 
 &nbsp;
 ## Research Work
