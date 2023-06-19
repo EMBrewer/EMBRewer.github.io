@@ -19,8 +19,8 @@ ethan.brewer@nyu.edu&nbsp;|&nbsp;
 [LinkedIn](https://www.linkedin.com/in/ethanbrewer/)
 &nbsp;
 ## Bio
-I am a Research Assistant Professor in the Department of Computer Science and Engineering at NYU and a member of the Visualization and Data Analytics (VIDA) Research Center under <a href='https://engineering.nyu.edu/faculty/claudio-silva'>Claudio Silva</a>. My research interests are centered on the synthesis of geospatial data, computer vision, and machine learning (geoAI).  
-I am interested in better understanding patterns in development, population, and the environment under data-sparse conditions in order to fill in critical information gaps regarding physical, social, and economic outcomes in these areas. My work utilizes remote sensing technologies and the latest computational techniques to expedite and scale analysis.  
+I am a Research Assistant Professor in the Department of Computer Science and Engineering at NYU and a member of the Visualization and Data Analytics (VIDA) Research Center under <a href='https://engineering.nyu.edu/faculty/claudio-silva'>Claudio Silva</a>.  
+My research interests are centered on the synthesis of geospatial data, computer vision, and machine learning (geoAI). I am interested in better understanding patterns in development, population, and the environment under data-sparse conditions in order to fill in critical information gaps regarding physical, social, and economic outcomes in these areas. My work utilizes remote sensing technologies and the latest computational techniques to expedite and scale analysis.  
 I hold a Ph.D. in computational geography from William & Mary (under <a href='https://www.wm.edu/as/appliedscience/people/runfola_d.php'>Dan Runfola</a>), an M.S. in applied physics from William & Mary, and a B.S. in physics from UMBC. Prior to graduate school I served as an oceanography officer for the U.S. Navy.
 
 &nbsp;
